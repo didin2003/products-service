@@ -36,3 +36,4 @@ whitenoise==6.12.0
 coverage==7.8.2
 pytest==8.4.0
 pytest-django==4.11.1
+bandit==1.8.3
